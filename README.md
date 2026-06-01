@@ -3,6 +3,8 @@
 A powerful, modern desktop application that automatically organizes your files into structured folders based on file types. Built with Python and Tkinter, featuring a beautiful UI and real-time file monitoring.
 
 ---
+[⬇️ Download Latest Version](https://github.com/amin109vd/Organizer-Pro-Gui/releases/latest)
+---
 
 🚀 Features
 
